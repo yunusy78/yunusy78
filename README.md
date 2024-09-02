@@ -5,13 +5,13 @@ I'm **Yunus Yiğit**, a .NET and React Developer with a background in Computer E
 ## About Me
 
 - 👨‍💻 **Profession:** .NET and React Developer | Computer Engineer
-- 🌐 **Website:** [www.yunusportfolio.com]([http://www.yunusyiğit.com](https://yunusportfolio.azurewebsites)) *(if applicable)*
-- 📫 **Contact:** [yunus.yigit](mailto:yunusyigitmsnh778@gmail.com) *(replace with actual email)*
+- 🌐 **Website:** [www.yunusportfolio.com]([http://www.yunusyiğit.com](https://yunusportfolio.azurewebsites)
+- 📫 **Contact:** [yunus.yigit](mailto:yunusyigitmsnh778@gmail.com)
 
 ## Connect with Me
 
-- **LinkedIn:** [yunus-yigit]([https://www.linkedin.com/in/yunus-yigit](https://www.linkedin.com/in/yunus-y-4315b327a) *(replace with actual LinkedIn URL)*
-- **GitHub:** [yunus-yigit]([https://github.com/yunus-yigit](https://github.com/yunusy78) *(replace with actual GitHub URL)*
+- **LinkedIn:** [yunus-yigit]([https://www.linkedin.com/in/yunus-yigit](https://www.linkedin.com/in/yunus-y-4315b327a)
+- **GitHub:** [yunus-yigit]([https://github.com/yunus-yigit](https://github.com/yunusy78) 
 - **Portfolio:** [yunusyiğit.com]([http://www.yunusyiğit.com](https://yunusportfolio.azurewebsites)) 
 
 ## Languages and Tools
