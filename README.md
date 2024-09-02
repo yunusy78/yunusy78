@@ -12,7 +12,6 @@ I'm **Yunus Yiğit**, a .NET and React Developer with a background in Computer E
 
 - **LinkedIn:** [yunus-yigit]([https://www.linkedin.com/in/yunus-yigit](https://www.linkedin.com/in/yunus-y-4315b327a)
 - **GitHub:** [yunus-yigit]([https://github.com/yunus-yigit](https://github.com/yunusy78) 
-- **Portfolio:** [yunusyiğit.com]([http://www.yunusyiğit.com](https://yunusportfolio.azurewebsites) 
 
 ## Languages and Tools
 
