@@ -18,9 +18,9 @@ I'm **Yunus Yiğit**, a .NET and React Developer with a background in Computer E
 Here are some of the languages and tools I work with:
 
 - **Languages:** C#, JavaScript, TypeScript
-- **Frameworks:** .NET, React
-- **Databases:** SQL Server, PostgreSQL, MySql
-- **Tools & Technologies:** Docker, Kubernetes, Azure
+- **Frameworks:** .NET, React, Next.js, React Native
+- **Databases:** SQL Server, PostgreSQL, MySql, MongoDb, Redis, DynamoDb,
+- **Tools & Technologies:** Docker, Kubernetes, Azure, AWS, CI/CD, AWS-CDK,
 - **Other Skills:** HTML, CSS, RESTful APIs, Git
 
 ## My Projects
